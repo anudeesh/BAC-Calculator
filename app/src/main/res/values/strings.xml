@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BAC Claculator</string>
+    <string name="weight_label">Weight (lbs)</string>
+    <string name="weight_value" />
+    <string name="switch_gender_label">Gender</string>
+    <string name="button_save_label">Save</string>
+    <string name="label_drink_size">Drink Size</string>
+    <string name="radio_1oz_label">1 oz</string>
+    <string name="radio_5oz_label">5 oz</string>
+    <string name="radio_12oz_label">12 oz</string>
+    <string name="label_alcohol">Alcohol %</string>
+    <string name="label_slider_value">5%</string>
+    <string name="button_add_drink">Add Drink</string>
+    <string name="button_reset">Reset</string>
+    <string name="label_bac_level">BAC Level :</string>
+    <string name="bac_value">0.00</string>
+    <string name="label_status">Your Status :</string>
+    <string name="label_status_value">You\'re Safe</string>
+    <string name="hint_weight">Enter weight</string>
+</resources>
